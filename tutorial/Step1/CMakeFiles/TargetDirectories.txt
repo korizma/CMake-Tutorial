@@ -1,0 +1,3 @@
+/home/korizma/Projekti/guide/tutorial/Step1/CMakeFiles/Tutorial.exe.dir
+/home/korizma/Projekti/guide/tutorial/Step1/CMakeFiles/edit_cache.dir
+/home/korizma/Projekti/guide/tutorial/Step1/CMakeFiles/rebuild_cache.dir
